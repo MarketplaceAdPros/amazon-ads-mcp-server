@@ -1,4 +1,5 @@
 # amazon-ads-mcp-server
+[![Trust Score](https://archestra.ai/mcp-catalog/api/badge/quality/MarketplaceAdPros/amazon-ads-mcp-server)](https://archestra.ai/mcp-catalog/marketplaceadpros__amazon-ads-mcp-server)
 
 Connect to your Amazon Advertising Data by integrating your account with [MarketplaceAdPros](https://marketplaceadpros.com).
 
