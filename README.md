@@ -91,6 +91,10 @@ Or, configure in [LibreChat](https://www.librechat.ai/) like:
 ````
 
 
+## Hosted deployment
+
+A hosted deployment is available on [Fronteir AI](https://fronteir.ai/mcp/marketplaceadpros-amazon-ads-mcp-server).
+
 ## Development
 
 Install dependencies:
