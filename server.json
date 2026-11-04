@@ -1,0 +1,19 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "com.marketplaceadpros/amazon-ads",
+  "title": "Marketplace Ad Pros: Amazon Ads & Seller Central",
+  "description": "Amazon Ads, Seller Central, Vendor Central and AMC data for AI agents. Read-only by default.",
+  "version": "1.0.0",
+  "websiteUrl": "https://marketplaceadpros.com?ref=mcp-registry",
+  "repository": {
+    "url": "https://github.com/MarketplaceAdPros/amazon-ads-mcp-server",
+    "source": "github",
+    "id": "986044367"
+  },
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://app.marketplaceadpros.com/mcp"
+    }
+  ]
+}
