@@ -1,5 +1,7 @@
 # Marketplace Ad Pros MCP Server for Amazon Ads & Seller Central
 
+[![mcptry](https://mcptry.com/badge/com.marketplaceadpros/amazon-ads)](https://mcptry.com/servers/com.marketplaceadpros/amazon-ads)
+
 A hosted MCP server that connects your Amazon Ads, Seller Central, Vendor Central and Amazon Marketing Cloud data to Claude, ChatGPT, Claude Code, Cursor, n8n and any other MCP-compatible client. Built by [Marketplace Ad Pros](https://marketplaceadpros.com?ref=github-amazon-ads-mcp-server), an Amazon Ads Verified Partner.
 
 **Remote endpoint (Streamable HTTP, OAuth):**
