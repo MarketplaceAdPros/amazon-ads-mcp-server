@@ -3,8 +3,17 @@
   "name": "com.marketplaceadpros/amazon-ads",
   "title": "Marketplace Ad Pros: Amazon Ads & Seller Central",
   "description": "Amazon Ads, Seller Central, Vendor Central and AMC data for AI agents. Read-only by default.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "websiteUrl": "https://marketplaceadpros.com?ref=mcp-registry",
+  "icons": [
+    {
+      "src": "https://mapp-prod-assets9a31d427-zr52qdcpl6bi.s3.amazonaws.com/img/MarketplaceAdPros.png",
+      "mimeType": "image/png",
+      "sizes": [
+        "250x250"
+      ]
+    }
+  ],
   "repository": {
     "url": "https://github.com/MarketplaceAdPros/amazon-ads-mcp-server",
     "source": "github",
